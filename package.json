@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/chanaton36/TestNodeSocket/issues"
   },
-  "homepage": "https://github.com/chanaton36/TestNodeSocket#readme"
+  "homepage": "https://github.com/chanaton36/TestNodeSocket#readme",
+  "dependencies": {}
 }
