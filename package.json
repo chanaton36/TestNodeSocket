@@ -1,0 +1,22 @@
+{
+  "name": "testnodesocket",
+  "version": "0.0.1",
+  "description": "testnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanaton36/TestNodeSocket.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "atonchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanaton36/TestNodeSocket/issues"
+  },
+  "homepage": "https://github.com/chanaton36/TestNodeSocket#readme"
+}
